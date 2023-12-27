@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "847699823435",
+    "firebase_url": "https://kalydax-55ebd.firebaseio.com",
+    "project_id": "kalydax-55ebd",
+    "storage_bucket": "kalydax-55ebd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847699823435:android:45d4ddee01453bdf92b6ce",
+        "android_client_info": {
+          "package_name": "com.example.kalydax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847699823435-uttjsuf5o9murpiqfnf0rt283rso0o7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdndqRYlwU-gvE4oBBAKT3H44scTZyrac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847699823435-uttjsuf5o9murpiqfnf0rt283rso0o7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

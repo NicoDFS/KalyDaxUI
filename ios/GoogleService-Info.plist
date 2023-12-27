@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>847699823435-b71regmvbps66sdgm9ovt896gt2afmns.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.847699823435-b71regmvbps66sdgm9ovt896gt2afmns</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBdndqRYlwU-gvE4oBBAKT3H44scTZyrac</string>
+	<key>GCM_SENDER_ID</key>
+	<string>847699823435</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>io.kalydax.demo</string>
+	<key>PROJECT_ID</key>
+	<string>kalydax-55ebd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kalydax-55ebd.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:847699823435:ios:9e727e0f404f3210a9cabf</string>
+	<key>DATABASE_URL</key>
+	<string>https://kalydax-55ebd.firebaseio.com</string>
+</dict>
+</plist>
