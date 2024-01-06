@@ -2,7 +2,7 @@ import 'package:graphql_flutter/graphql_flutter.dart';
 import 'package:gql/language.dart';
 
 class GraphQLClientAPI {
-  static String gqlServerHost = 'localhost:4000';
+  static String gqlServerHost = 'app.kalyexchange.com:4000';
 
   static client() => GraphQLClient(
         cache: InMemoryCache(),
