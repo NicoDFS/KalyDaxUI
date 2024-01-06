@@ -7,7 +7,7 @@ class GraphQLClientAPI {
   static client() => GraphQLClient(
         cache: InMemoryCache(),
         link: HttpLink(
-          uri: 'http://$gqlServerHost/graphql',
+          uri: 'https://$gqlServerHost/graphql',
         ),
       );
 
